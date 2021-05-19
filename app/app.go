@@ -1,9 +1,9 @@
 package app
 
 import (
+	"TodoServer/model"
 	"log"
 	"net/http"
-	"project/TodoServer/model"
 	"strconv"
 
 	"github.com/gin-contrib/static"
