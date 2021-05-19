@@ -1,8 +1,8 @@
 package main
 
 import (
-	"edu/TodoServer/app"
-	"edu/TodoServer/model"
+	"project/TodoServer/app"
+	"project/TodoServer/model"
 )
 
 func main() {
