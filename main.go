@@ -1,8 +1,8 @@
 package main
 
 import (
-	"dongsun/app"
-	"dongsun/model"
+	"edu/TodoServer/app"
+	"edu/TodoServer/model"
 )
 
 func main() {

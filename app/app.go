@@ -1,12 +1,12 @@
 package app
 
 import (
-	"dongsun/model"
+	"edu/TodoServer/model"
 	"log"
 	"net/http"
 	"strconv"
 
-	"github.com/gin-gonic/contrib/static"
+	"github.com/gin-contrib/static"
 	"github.com/gin-gonic/gin"
 )
 
